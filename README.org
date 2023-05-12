@@ -13,6 +13,7 @@
     our web site or your own equivalent.
   - This project should be tested using doctest
   - Make sure to use exceptions as we discussed in class to handle error conditions.
+
 * Part 1
 
 - Write a recursive version of the search routine. You can write
@@ -28,7 +29,8 @@
 
 - Generate 10 random numbers and then insert them into a BST using the
   algorithm we designed. Draw out what that tree looks like. You don't
-  have to submit anything for this. 
+  have to submit anything for this.
+
 * Part 2 
 - Write the delete routine using the algorithm we defined in class 
 - Here are two references but don't look at the code (unless you
@@ -36,6 +38,7 @@
   you use the code on these sites, make sure to cite it):
   - http://www.algolist.net/Data_structures/Binary_search_tree/Removal
   - https://helloacm.com/how-to-delete-a-node-from-a-binary-search-tree/
+
 * Part 3
 write at least 2 of these routines.
 
@@ -49,7 +52,7 @@ issue (you know if this applies to you since we've spoken).
 - height of a tree (a tree with just the root can be height 0 or 1,
   whichever you prefer)
 - sum at given level level (add all values at level n)
-- tree pretty printer (this is a challenge, print out the tree using
+- tree pretty printer this is a challenge, print out the tree using
   tabs to make it look nice
 - cousins - true if two nodes at same level
 
